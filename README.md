@@ -1,6 +1,6 @@
-# 📊 eduMetrics: Student Performance Analytics Dashboard
+# 📊 InsightEd: Student Performance Analytics Dashboard
 
-**eduMetrics** is a complete end-to-end data analytics project that analyzes how students’ daily habits impact their academic performance. Using real-world data from **Kaggle**, the project applies structured **MySQL data cleaning**, thoughtful feature engineering, and interactive data visualization with **Microsoft Power BI** to derive actionable academic insights.
+**InsightEd** is a complete end-to-end data analytics project that analyzes how students’ daily habits impact their academic performance. Using real-world data from **Kaggle**, the project applies structured **MySQL data cleaning**, thoughtful feature engineering, and interactive data visualization with **Microsoft Power BI** to derive actionable academic insights.
 
 ---
 
