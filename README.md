@@ -90,5 +90,3 @@ Students who sleep between 5 to 8 hours per night demonstrate the highest academ
 
 ---
 
-## 🗃️ Repository Structure
-
